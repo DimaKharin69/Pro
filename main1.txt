@@ -1,0 +1,161 @@
+.menu li {
+  display: block;
+
+}
+.container {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  color: #828282;
+}
+.first {
+  position: absolute;
+width: 150px;
+height: 15px;
+left: 281px;
+top: 21px;
+}
+.aaa {
+  position: absolute;
+  width: 111px;
+  height: 15px;
+  left: 512px;
+  top: 21px;
+}
+.bbb {
+  position: absolute;
+width: 42px;
+height: 15px;
+left: 1376px;
+top: 19px;
+}
+.ccc {
+  position: absolute;
+width: 52px;
+height: 15px;
+left: 1468px;
+top: 18px;
+}
+.ddd {
+  position: absolute;
+width: 93px;
+height: 15px;
+left: 1571px;
+top: 18px;
+}
+.logo {
+  position: absolute;
+width: 16px;
+height: 5.54px;
+left: 255px;
+top: 29.46px;
+}
+.logo1 {
+  position: absolute;
+left: 25.83%;
+right: 74.06%;
+top: 0.38%;
+bottom: 99.44%;
+}
+.logo2 {
+  position: absolute;
+width: 12px;
+height: 12px;
+left: 683px;
+top: 22px;
+}
+.logo3 {
+  position: absolute;
+width: 15px;
+height: 12px;
+left: 707px;
+top: 22px;
+}
+.logo4 {
+  position: absolute;
+  width: 22px;
+  height: 12px;
+  left: 734px;
+  top: 22px;
+}
+.logo5 {
+  position: absolute;
+width: 216px;
+height: 54px;
+left: 255px;
+top: 95px;
+}
+.sss {
+  position: absolute;
+width: 177px;
+height: 29px;
+left: 585px;
+top: 105px;
+  font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+color: #333333;
+}
+.rrr {
+  position: absolute;
+width: 44px;
+height: 17px;
+left: 975px;
+top: 110px;
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 17px;
+}
+.xxx {
+position: absolute;
+width: 120px;
+height: 17px;
+left: 1393px;
+top: 113px;
+
+  font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+color: #333333;
+}
+.qqq {
+  position: absolute;
+width: 81px;
+height: 17px;
+left: 1583px;
+top: 113px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+color: #333333;
+}
+.polosa {
+  position: 0;
+  margin: 0;
+}
+.polosa li {
+  float: left;
+  display: block;
+  margin-right: 70px;
+  position: relative;
+height: 20px;
+left: 255px;
+top: 210px;
+}
+.logo6 {
+  position: absolute;
+width: 809px;
+height: 548px;
+left: 855px;
+top: 281px;
+}

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <nav>
+        <ul class="menu">
+          <li>
+            <img src="img/Ochki.jpg"  class="logo">
+          </li>
+<li>
+      <p class="first">Версия для слабовидящих</p>
+</li>
+<li>
+          <p class="aaa">Сравнение товаров</p>
+</li>
+<li>
+      <img srs="img/palk.png"  class="logo1">
+</li>
+<li>
+           <p class="bbb">Оплата</p>
+</li>
+<li>
+           <p class="ccc">Доставка</p>
+</li>
+<li>
+      <p class="ddd">Возврат и обмен</p>
+</li>
+<li>
+      <img srs="img/inst.png"  class="logo2">
+</li>
+<li>
+  <img src="img/twit.png"  class="logo3">
+</li>
+<li>
+  <img src="img/vk.png"  class="logo4">
+</li>
+</ul>
+<ul class="menu">
+<li>
+  <img src="img/ontika.png"  class="logo5">
+</li>
+</ul>
+    <ul class="menu">
+      <li>
+  <p class="sss">(8184) 52-96-33</p>
+</li>
+<li>
+  <p class="rrr">Искать</p>
+</li>
+<li>
+  <p class="xxx">Вход/Регистрация</p>
+</li>
+<li>
+  <p class="qqq">Корзина(10)</p>
+</li>
+</ul>
+</nav>
+</div>
+<div class="container1">
+<nav>
+<ul class="polosa">
+     <li>
+        <p class="u">КАТОЛОГ</p>
+     </li>
+     <li>
+        <p class="u">О КОМПАНИИ</p>
+     </li>
+     <li>
+        <p class="u">ОМС</p>
+     </li>
+     <li>
+        <p class="u">АКЦИИ</p>
+     </li>
+     <li>
+        <p class="u">РОЗНИЧНАЯ СЕТЬ</p>
+     </li>
+     <li>
+        <p class="u">ПАРТНЁРЫ</p>
+     </li>
+     <li>
+        <p class="u">КОНТАКТЫ</p>
+     </li>
+     <li>
+        <p class="u">ПОДБОР ОЧКОВ</p>
+     </li>
+</ul>
+</nav>
+</div>
+<div class="container2">
+<nav>
+<ul>
+<li>
+  <img src="img/Rectangle.png"  class="logo6">
+</li>
+</ul>
+</nav>
+</div>
+
+
+
+
+  </header>
+
+
+</body>
+</html>
